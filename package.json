@@ -1,0 +1,34 @@
+{
+  "name": "@crysis1995/plusbusy.domain_models",
+  "version": "1.0.1",
+  "description": "Package contains whole domain models to Plusbusy project",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crysis1995/plusbusy.domain_models.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/crysis1995"
+  },
+  "author": {
+    "name": "Krzysztof Kaczor",
+    "email": "krzysztofkaczor95@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crysis1995/plusbusy.domain_models/issues"
+  },
+  "homepage": "https://github.com/crysis1995/plusbusy.domain_models#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.3",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.4.0",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "zod": "^3.19.1"
+  }
+}
